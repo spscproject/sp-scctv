@@ -48,13 +48,13 @@ You can install the required libraries using pip.
    ```bash
    
    git clone https://github.com/spscproject/sp-scctv.git
-   cd PersonalCCTV
+   cd sp-scctv
    ```
 
 4. **Run the Application**:
    ```bash
    
-   python3 cctv_camera.py
+   python3 spscctv.py
    ```
 
 ### Windows
@@ -74,13 +74,13 @@ You can install the required libraries using pip.
    ```bash
    
    git clone https://github.com/spscproject/sp-scctv.git
-   cd PersonalCCTV
+   cd sp-scctv
    ```
 
 4. **Run the Application**:
    ```bash
    
-   python cctv_camera.py
+   python spscctv.py
    ```
 
 ### macOS
@@ -106,7 +106,7 @@ You can install the required libraries using pip.
 4. **Run the Application**:
    ```bash
    
-   python cctv_camera.py
+   python spscctv.py
    ```
 
 ### Direct Installation (Windows, macOS, & Linux)
@@ -114,7 +114,7 @@ You can install the required libraries using pip.
 For users who prefer a quicker method without navigating through the command line:
 
 1. **Download the ZIP File**:
-   - Go to the repository on GitHub: [PersonalCCTV](https://github.com/yourusername/PersonalCCTV).
+   - Go to the repository on GitHub: [PersonalCCTV](https://github.com/spscproject/sp-scctv).
    - Click on the green "Code" button and select "Download ZIP."
 
 2. **Extract the ZIP File**:
@@ -143,7 +143,7 @@ For users who prefer a quicker method without navigating through the command lin
    - Execute the following command:
    ```bash
    
-   python cctv_camera.py
+   python spscctv.py
    ```
 
 ## Usage
