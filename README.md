@@ -1,8 +1,4 @@
-# sp-scctv
-
----
-
-# Personal CCTV Camera Project
+# Sp's CCTV
 
 Welcome to the Sp's CCTV ! This application allows you to use your computer's webcam to monitor your surroundings and send email alerts with images whenever motion is detected. It's perfect for home security, monitoring your lab, or keeping an eye on your pets.
 
