@@ -21,27 +21,65 @@ You can install the required libraries using pip.
 
 ## Installation
 
+### Linux
+
+1. **Install Python**:
+   - Most Linux distributions come with Python pre-installed. You can check by running:
+   ```bash
+   
+   python3 --version
+   ```
+   - If Python is not installed, you can install it using your package manager. For example, on Ubuntu:
+   ```bash
+   
+   sudo apt update
+   sudo apt install python3 python3-pip
+   ```
+
+2. **Install Required Libraries**:
+   - Open your terminal and run the following command to install the necessary libraries:
+   ```bash
+   
+   pip3 install opencv-python cryptography
+   ```
+
+3. **Clone the Repository**:
+   - In the terminal, run:
+   ```bash
+   
+   git clone https://github.com/spscproject/sp-scctv.git
+   cd PersonalCCTV
+   ```
+
+4. **Run the Application**:
+   ```bash
+   
+   python3 cctv_camera.py
+   ```
+
 ### Windows
 
-1. **Directly Install**:
+1. **Install Python**:
    - Download Python from [python.org](https://www.python.org/downloads/) and run the installer. Make sure to check the option to add Python to your PATH.
 
 2. **Install Required Libraries**:
-   - Open your Command Prompt (you can search for "cmd" in the Start menu) and run the following commands:
+   - Open your Command Prompt (you can search for "cmd" in the Start menu) and run the following command:
    ```bash
+   
    pip install opencv-python cryptography
    ```
 
 3. **Clone the Repository**:
    - In the Command Prompt, run:
    ```bash
-   git clone https://github.com/yourusername/PersonalCCTV.git
+   
+   git clone https://github.com/spscproject/sp-scctv.git
    cd PersonalCCTV
    ```
 
 4. **Run the Application**:
-   - Run the application using this command:
    ```bash
+   
    python cctv_camera.py
    ```
 
@@ -51,25 +89,27 @@ You can install the required libraries using pip.
    - Download Python from [python.org](https://www.python.org/downloads/) and run the installer.
 
 2. **Install Required Libraries**:
-   - Open your Terminal (found in Applications > Utilities), and run the following commands:
+   - Open your Terminal (found in Applications > Utilities), and run:
    ```bash
+   
    pip install opencv-python cryptography
    ```
 
 3. **Clone the Repository**:
    - In the Terminal, run:
    ```bash
-   git clone https://github.com/yourusername/PersonalCCTV.git
+
+   git clone https://github.com/spscproject/sp-scctv.git
    cd PersonalCCTV
    ```
 
 4. **Run the Application**:
-   - Use this command to run the application:
    ```bash
+   
    python cctv_camera.py
    ```
 
-### Direct Installation (Windows & macOS)
+### Direct Installation (Windows, macOS, & Linux)
 
 For users who prefer a quicker method without navigating through the command line:
 
@@ -80,25 +120,29 @@ For users who prefer a quicker method without navigating through the command lin
 2. **Extract the ZIP File**:
    - Locate the downloaded ZIP file in your Downloads folder and extract it.
 
-3. **Open Command Prompt (Windows) or Terminal (macOS)**:
+3. **Open Command Prompt (Windows) or Terminal (macOS/Linux)**:
    - **Windows**: Search for "cmd" in the Start menu.
    - **macOS**: Open Terminal from Applications > Utilities.
+   - **Linux**: Open your terminal from your applications menu.
 
 4. **Navigate to the Extracted Folder**:
    - Use the following command (replace `<path_to_your_folder>` with the actual path):
    ```bash
+   
    cd <path_to_your_folder>
    ```
 
 5. **Install Required Libraries**:
    - Run this command to install the necessary libraries:
    ```bash
+   
    pip install opencv-python cryptography
    ```
 
 6. **Run the Application**:
    - Execute the following command:
    ```bash
+   
    python cctv_camera.py
    ```
 
