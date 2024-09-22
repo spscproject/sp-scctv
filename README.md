@@ -114,7 +114,7 @@ You can install the required libraries using pip.
 For users who prefer a quicker method without navigating through the command line:
 
 1. **Download the ZIP File**:
-   - Go to the repository on GitHub: [PersonalCCTV](https://github.com/spscproject/sp-scctv).
+   - Go to the repository on GitHub: [Sp-scctv](https://github.com/spscproject/sp-scctv).
    - Click on the green "Code" button and select "Download ZIP."
 
 2. **Extract the ZIP File**:
