@@ -14,7 +14,6 @@ Welcome to the Sp's CCTV ! This application allows you to use your computer's we
 - Python 3 or above
 - OpenCV
 - `smtplib` (included with Python)
-- `cryptography` library for encryption
 - `pickle` (included with Python)
 
 You can install the required libraries using pip.
@@ -155,7 +154,6 @@ For users who prefer a quicker method without navigating through the command lin
 
 ## Security Considerations
 
-- The application encrypts sensitive information (email and password) before storing it to ensure privacy.
 - Make sure to use a secure email account and consider enabling two-factor authentication (2FA) for added security.
 
 ## Limitations
