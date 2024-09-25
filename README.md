@@ -39,7 +39,7 @@ You can install the required libraries using pip.
    - Open your terminal and run the following command to install the necessary libraries:
    ```bash
    
-   pip3 install opencv-python cryptography
+   pip3 install opencv-python 
    ```
 
 3. **Clone the Repository**:
@@ -65,7 +65,7 @@ You can install the required libraries using pip.
    - Open your Command Prompt (you can search for "cmd" in the Start menu) and run the following command:
    ```bash
    
-   pip install opencv-python cryptography
+   pip install opencv-python 
    ```
 
 3. **Clone the Repository**:
@@ -91,7 +91,7 @@ You can install the required libraries using pip.
    - Open your Terminal (found in Applications > Utilities), and run:
    ```bash
    
-   pip install opencv-python cryptography
+   pip install opencv-python 
    ```
 
 3. **Clone the Repository**:
@@ -135,7 +135,7 @@ For users who prefer a quicker method without navigating through the command lin
    - Run this command to install the necessary libraries:
    ```bash
    
-   pip install opencv-python cryptography
+   pip install opencv-python 
    ```
 
 6. **Run the Application**:
